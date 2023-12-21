@@ -1,6 +1,7 @@
 # project-management-system
 Welcome to our Project Management repository! </br>
-It's designed using C# language, .NET framework &amp; database managed with SQL Server Database. Draw.io, Canva &amp; MS Word were used for the documentation part.
+It's designed using <b>C# language, .NET framework &amp; database managed with SQL Server Database.<b/> </br>
+<b>Draw.io, Canva &amp; MS Word<b/> were used for the documentation part.
 
 University course project. </br>
 Here, emphasis is placed on the basic principles of a Project Management system and it is designed to manage customers, employees, labor, projects, and resources.
