@@ -1,0 +1,54 @@
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Add_Projects.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Add_Employee.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Employees.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Login.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Home.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Progress.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Projects.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Properties.Resources.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Search_Project.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.View_Projects.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.GenerateResource.cache
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe.config
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.pdb
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.exe
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.pdb
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Employee_Details.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.View_Employees.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Labour.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Add_Labours.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Labour_Details.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Resources.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Add_Resources.resources
+C:\Users\Chameera\source\repos\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Resources_Details.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe.config
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.exe
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\bin\Debug\ProjectManagementSystem.pdb
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.AssemblyReference.cache
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Add_Projects.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Add_Employee.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Add_Labours.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Add_Resources.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Employees.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Employee_Details.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Labour_Details.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Labour.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Login.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Home.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Progress.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Projects.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Properties.Resources.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Resources.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Resources_Details.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.Search_Project.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.View_Employees.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.View_Projects.resources
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.GenerateResource.cache
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.csproj.CoreCompileInputs.cache
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.exe
+E:\Campus\3rd Year 1st sem\COSC 31112 Visual\Project\ProjectManagementSystem\ProjectManagementSystem\obj\Debug\ProjectManagementSystem.pdb

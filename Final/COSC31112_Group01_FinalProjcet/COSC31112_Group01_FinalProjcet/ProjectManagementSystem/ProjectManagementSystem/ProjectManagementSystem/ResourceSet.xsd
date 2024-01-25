@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ResourceSet" targetNamespace="http://tempuri.org/ResourceSet.xsd" xmlns:mstns="http://tempuri.org/ResourceSet.xsd" xmlns="http://tempuri.org/ResourceSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ResourceSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="ResourceSet" msprop:Generator_DataSetName="ResourceSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Resources" msprop:Generator_RowEvHandlerName="ResourcesRowChangeEventHandler" msprop:Generator_RowDeletedName="ResourcesRowDeleted" msprop:Generator_RowDeletingName="ResourcesRowDeleting" msprop:Generator_RowEvArgName="ResourcesRowChangeEvent" msprop:Generator_TablePropName="Resources" msprop:Generator_RowChangedName="ResourcesRowChanged" msprop:Generator_RowChangingName="ResourcesRowChanging" msprop:Generator_TableClassName="ResourcesDataTable" msprop:Generator_RowClassName="ResourcesRow" msprop:Generator_TableVarName="tableResources" msprop:Generator_UserTableName="Resources">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ResourceTypeId" msprop:Generator_ColumnPropNameInRow="ResourceTypeId" msprop:Generator_ColumnPropNameInTable="ResourceTypeIdColumn" msprop:Generator_ColumnVarNameInTable="columnResourceTypeId" msprop:Generator_UserColumnName="ResourceTypeId">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="ResourceTypeName" msprop:Generator_ColumnPropNameInRow="ResourceTypeName" msprop:Generator_ColumnPropNameInTable="ResourceTypeNameColumn" msprop:Generator_ColumnVarNameInTable="columnResourceTypeName" msprop:Generator_UserColumnName="ResourceTypeName">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Qty" msprop:Generator_ColumnPropNameInRow="Qty" msprop:Generator_ColumnPropNameInTable="QtyColumn" msprop:Generator_ColumnVarNameInTable="columnQty" msprop:Generator_UserColumnName="Qty" type="xs:int" minOccurs="0" />
+              <xs:element name="UnitPrice" msprop:Generator_ColumnPropNameInRow="UnitPrice" msprop:Generator_ColumnPropNameInTable="UnitPriceColumn" msprop:Generator_ColumnVarNameInTable="columnUnitPrice" msprop:Generator_UserColumnName="UnitPrice" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
